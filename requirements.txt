@@ -40,5 +40,5 @@ python-dotenv # will call all my env packagaes
 chromadb 
 
 
-
+langchain_ollama
 # pip install -r requirements.txt
