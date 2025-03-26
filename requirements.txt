@@ -41,4 +41,18 @@ chromadb
 
 
 langchain_ollama
+
+# Hugging face
+sentence_transformers
+langchain_huggingface
+transformers
+faiss-cpu
+
+# using chromadb
+langchain_chroma  # langchain_chroma-0.2.2
+
+python-dotenv
+langchain-openai
+
+
 # pip install -r requirements.txt
